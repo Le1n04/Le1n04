@@ -20,7 +20,6 @@
 - :school: Also student for [42School](https://42.fr/en/) at 42Málaga
 - :technologist: **Currently working on** `Multi-platform Application Development`
 - :boom: You can visit [MY 42 REPO](https://https://github.com/Le1n04/42) for some C knowledge
-- :email: Feel free to **reach me out** at le1n04contact@gmail.com
 
 <br>
 
