@@ -14,8 +14,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
 - :school: I am a student of multi-platform application development at [IES Playamar](https://iesplayamar.es/desarrollo-de-aplicaciones-multiplataforma/)
 - :school: Also student for [42School](https://42.fr/en/) at 42Málaga
 - :technologist: **Currently working on** `Multi-platform Application Development`
