@@ -78,7 +78,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-blush-gamma-32.vercel.app/api/top-langs/?username=Le1n04&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&count-private=true"/>
+  <img  align="center"  src="https://github-readme-stats-jqne.vercel.app/api/top-langs/?username=Le1n04&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&count-private=true"/>
 
   </td>
 </tr>
