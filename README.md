@@ -28,6 +28,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![JS](https://img.shields.io/badge/logo-javascript-blue)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
